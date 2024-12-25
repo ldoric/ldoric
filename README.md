@@ -1,6 +1,5 @@
 ### Hi, my name is Luka.
-I'm a student from Split, Croatia. 
-- I'm currently learing android development
+I'm a CS student from Split, Croatia. 
 - I'm studying at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
 - I also do graphic design
 
