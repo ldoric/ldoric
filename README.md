@@ -1,7 +1,9 @@
 ### Hi, my name is Luka.
 I'm a CS student from Split, Croatia. 
 - I'm studying at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
-- I also do graphic design
+
+Lazy Calorie Tracker https://www.lazycalorietracker.com/
+My web: https://www.ldoric.dev/  
 
 <!--
 **ldoric/ldoric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
