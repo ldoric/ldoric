@@ -2,7 +2,8 @@
 I'm a CS student from Split, Croatia. 
 - I'm studying at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
 
-Lazy Calorie Tracker https://www.lazycalorietracker.com/
+Lazy Calorie Tracker https://www.lazycalorietracker.com/ 
+
 My web: https://www.ldoric.dev/  
 
 <!--
