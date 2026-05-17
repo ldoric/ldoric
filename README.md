@@ -1,12 +1,13 @@
 ### Hi, my name is Luka.
-I'm a CS student from Split, Croatia. 
+
+I'm a CS student from Split, Croatia.
+
 - I'm studying at FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
 
-🍔 [Lazy Calorie Tracker](https://www.lazycalorietracker.com/) - IOS & Andorid app
-🌐 [My Website](https://www.ldoric.dev/)  
-🪜 [Word Ladder](https://ldoric.dev/game/wordladder) - Master Degree Thesis game with ML model solver  
-🚢 [KadćeKruzer?](https://sheepai-front.vercel.app/) - SheepAI Hackathon project for the people of Split
-
+- 🍔 [Lazy Calorie Tracker](https://www.lazycalorietracker.com/) - IOS & Android app
+- 🌐 [My Website](https://www.ldoric.dev/)
+- 🪜 [Word Ladder](https://ldoric.dev/game/wordladder) - Master Degree Thesis game with ML model solver
+- 🚢 [KadćeKruzer?](https://sheepai-front.vercel.app/) - SheepAI Hackathon project for the people of Split
 <!--
 **ldoric/ldoric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
